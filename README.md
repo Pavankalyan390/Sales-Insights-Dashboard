@@ -5,7 +5,7 @@ The color scheme of the dashboard is ispired from the AtliQ logo💡
 
 # Overview
 - Business Insights is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Region and Market, and Cutomers, and Products.
-- The sales insights dashboard was built using the dataset provided Codebasics Youtube channel. It contained the sales data of Atliq hardware from 2017 to 2020. It consisted of 1 fact table and 4 dimension tables. The data source was in MySQL database.
+- The sales insights dashboard was built using the dataset provided Codebasics. It contained the sales data of Atliq hardware from 2017 to 2020. It consisted of 1 fact table and 4 dimension tables. The data source was in MySQL database.
 
 # Features
 - **Region**: Detailed View of the top performing customers.
