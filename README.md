@@ -43,7 +43,5 @@ Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was p
 # Dashboard Overview
 <img width="1596" height="1020" alt="image" src="https://github.com/user-attachments/assets/f3fae38d-18f6-4b41-a79a-9bd342ad24dc" />
 
-## Note: I haven't upload this Dashboard into cloud because i don't have work email.
-
 
 # Explore, Analyze, Decide! 📊🔍🚀
